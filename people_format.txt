@@ -1,0 +1,1 @@
+Rejoin/Leave	ID	Preferred (first) name	Last name	Graduation year	Residential college	Points	Status	Email
